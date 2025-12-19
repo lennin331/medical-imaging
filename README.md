@@ -1,6 +1,6 @@
 ## Open Source Medical Imaging Data
 
-###Tables
+### Tables
 | Column Name       | Description                             |
 | ----------------- | --------------------------------------- |
 | `image_id`        | Unique identifier for the image         |
@@ -13,7 +13,7 @@
 | `slice_thickness` | Slice thickness (if applicable)         |
 | `resolution`      | Image resolution or voxel spacing       |
 
-###Intent 
+### Intent 
 - Medical image segmentation research.
 - Machine learning model training and evaluation.
 - Educational and academic purposes.
